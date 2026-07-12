@@ -48,12 +48,12 @@ A linear regression using content type, category, follower count, verification s
 
 ## Tools Used
 
-Python, pandas, NumPy, Matplotlib, Seaborn, SciPy, scikit-learn — in Google Colab.
+Python, pandas, NumPy, Matplotlib, Seaborn, SciPy, scikit-learn in Google Colab.
 
 ## How to Run
 
 1. Open `instagram_engagement_analysis.ipynb` in Google Colab.
-2. Run cells in order — the notebook downloads the dataset automatically via `kagglehub`.
+2. Run cells in order the notebook downloads the dataset automatically via `kagglehub`.
 
 ## Limitations
 
