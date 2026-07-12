@@ -1,7 +1,7 @@
 # Instagram Engagement Analysis
 *(sourced from a multi-platform social media dataset, filtered to Instagram)*
 
-A data analysis project exploring what drives post engagement on Instagram:content type, audience size, posting time, and account verification — using exploratory analysis, hypothesis testing, and a predictive model.
+A data analysis project exploring what drives post engagement on Instagram:content type, audience size, posting time, and account verification using exploratory analysis, hypothesis testing, and a predictive model.
 
 ## Business Question
 
